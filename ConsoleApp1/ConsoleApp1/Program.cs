@@ -11,6 +11,7 @@ namespace ConsoleApp1
             if(iNum == 1)
             {
                 Console.WriteLine("Ты ввел число 1");
+                Console.WriteLine("Соси");
             }
             else
             {
